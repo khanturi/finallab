@@ -37,6 +37,7 @@ public class Arithematic {
         System.out.println("product : "+product);
         System.out.println("quot : "+quot);
         System.out.println("rem : "+rem);
+        System.out.println("product : "+product);
 
 		
 		
